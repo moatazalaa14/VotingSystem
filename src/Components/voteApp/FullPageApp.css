@@ -1,0 +1,12 @@
+body{
+    background-image: url(../../imgs/bg1.jpg);
+    background-size: cover;
+}
+.AllCards{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color: white;
+    text-align: center;
+}

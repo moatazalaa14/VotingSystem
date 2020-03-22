@@ -1,0 +1,26 @@
+.Python , .Javascript ,.PHP,.Ruby{
+border: 5px solid white;  
+margin: 50px;  
+
+
+}
+.Python p , button {
+    display: inline-block;
+    padding: 5px;
+}
+.Javascript p , button {
+    display: inline-block;
+    padding: 5px;
+}
+.PHP p , button {
+    display: inline-block;
+    padding: 5px;
+}
+.Ruby p , button {
+    display: inline-block;
+    padding: 5px;
+}
+p{
+    color: white;
+    
+}
